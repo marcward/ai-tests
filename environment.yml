@@ -1,0 +1,8 @@
+name: ai_playground
+
+dependencies:
+ - python<=3.12
+ - tiktoken
+ - requests
+ - getpass
+ - openai
